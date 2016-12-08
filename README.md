@@ -11,6 +11,8 @@ This is a fork of [Google Maps Server-side Clustering with C#
 **Installation**  
 You can download the [GoogleMaps.Net.Clustering](https://www.nuget.org/packages/GoogleMaps.Net.Clustering/) package to install the latest version of GoogleMaps.Net.Clustering Lib.
 
+Sponsored by [Dovetail Technologies](http://www.dovetail.ie/).
+
 ## Usage
 
 This is an example of how to used cached clustering.
